@@ -1,12 +1,6 @@
 ## Hi there 👋
 Studying chemistry (Year III)
 Interested in guitar, boxing and camping.  
-
-Accomplishments (2005-ongoing):
-2025-2026: 3rd place fantasy football placement
-2005-2025: N/A
-
-
 <!--
 **PeytonFreeburn/PeytonFreeburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
